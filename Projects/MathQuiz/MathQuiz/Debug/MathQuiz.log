@@ -1,0 +1,19 @@
+﻿Build started 1/7/2013 8:14:47 PM.
+     1>Project "E:\visual studio 2012\Projects\MathQuiz\MathQuiz\MathQuiz.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MathQuiz.cpp
+         MathQuiz.cpp
+     1>e:\visual studio 2012\projects\mathquiz\mathquiz\mathquiz.cpp(97): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>e:\visual studio 2012\projects\mathquiz\mathquiz\mathquiz.cpp(165): warning C4258: 'count' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\visual studio 2012\projects\mathquiz\mathquiz\mathquiz.cpp(128) : definition of 'count' ignored
+                 e:\visual studio 2012\projects\mathquiz\mathquiz\mathquiz.cpp(47) : definition of 'count' used
+     1>e:\visual studio 2012\projects\mathquiz\mathquiz\mathquiz.cpp(46): warning C4101: 'answer' : unreferenced local variable
+       Link:
+         E:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\visual studio 2012\Projects\MathQuiz\Debug\MathQuiz.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\visual studio 2012\Projects\MathQuiz\Debug\MathQuiz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\visual studio 2012\Projects\MathQuiz\Debug\MathQuiz.lib" /MACHINE:X86 Debug\MathQuiz.obj
+         Debug\stdafx.obj
+         MathQuiz.vcxproj -> E:\visual studio 2012\Projects\MathQuiz\Debug\MathQuiz.exe
+     1>Done Building Project "E:\visual studio 2012\Projects\MathQuiz\MathQuiz\MathQuiz.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.73

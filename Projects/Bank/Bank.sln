@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bank", "Bank\Bank.vcxproj", "{1E81EC02-37DF-43B5-8BB8-D44655E77A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E81EC02-37DF-43B5-8BB8-D44655E77A25}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E81EC02-37DF-43B5-8BB8-D44655E77A25}.Debug|Win32.Build.0 = Debug|Win32
+		{1E81EC02-37DF-43B5-8BB8-D44655E77A25}.Release|Win32.ActiveCfg = Release|Win32
+		{1E81EC02-37DF-43B5-8BB8-D44655E77A25}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

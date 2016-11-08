@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathQuiz", "MathQuiz\MathQuiz.vcxproj", "{BAF2595A-2731-430B-BCD0-B8EE80236DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF2595A-2731-430B-BCD0-B8EE80236DFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAF2595A-2731-430B-BCD0-B8EE80236DFC}.Debug|Win32.Build.0 = Debug|Win32
+		{BAF2595A-2731-430B-BCD0-B8EE80236DFC}.Release|Win32.ActiveCfg = Release|Win32
+		{BAF2595A-2731-430B-BCD0-B8EE80236DFC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
